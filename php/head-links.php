@@ -12,5 +12,6 @@
 <?php
   // loadCSSFile('grid');
   // loadCSSFile('flexbox');
+  loadCSSFile('carousel');
   loadCSSFile('main');
 ?>
